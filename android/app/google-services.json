@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "858603163236",
+    "firebase_url": "https://tesdatabase-87f81-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tesdatabase-87f81",
+    "storage_bucket": "tesdatabase-87f81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858603163236:android:007ace882738e8f6d99971",
+        "android_client_info": {
+          "package_name": "com.example.tesdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858603163236-ff98kefbdtk8fp53eqii7f4lpq39e1qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesdatabase",
+            "certificate_hash": "22ce28ada0712fe3277451f4ae1da659b7e95515"
+          }
+        },
+        {
+          "client_id": "858603163236-q98hikel3kcnfqof9v6bmek6smhratq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhNz6CaEAyOv5opQnfKuBH3bEgvk3UutA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858603163236-q98hikel3kcnfqof9v6bmek6smhratq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
